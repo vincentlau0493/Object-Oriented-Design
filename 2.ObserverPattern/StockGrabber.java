@@ -34,7 +34,7 @@ public class StockGrabber implements Subject {
 		}
 	}
 
-	public void setPrice(String company, double price) {
+	public synchronized void setPrice(String company, double price) {
 		switch(company) {
 			case "ibm":
 				ibmPrice = price;
