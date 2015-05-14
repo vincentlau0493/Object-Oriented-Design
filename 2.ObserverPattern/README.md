@@ -1,6 +1,12 @@
 ## Observer Design Pattern
 
-**Entrance File**: AnimalPlay.java
+**Entrance File**: Stock.java
+
+**When to use it**:
+
+- The subject (publisher) doesn't need to know anything about the observers (subscribers)
+- Observers need to keep tracking the update information from the subject
+
 
 **Key Point**:
 
