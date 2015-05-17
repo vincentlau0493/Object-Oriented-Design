@@ -2,6 +2,15 @@
 
 **Entrance File**: EnemyTesting.java
 
+**Tips**: 
+
+To compile all java files - 
+
+```shell
+$ find . -name "*.java" | xargs javac
+
+```
+
 **What can we do with Abstract Factory**:
 
 - Allows you to create families of related objects without specifying a concrete class
