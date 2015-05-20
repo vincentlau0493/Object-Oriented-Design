@@ -11,7 +11,6 @@ Pattern used to create objects made from a bunch of other objects
 - When you want to build an object made up from other objects
 - When you want the creation of these parts to be independent of the main object
 
-**UML**
 ![image](diagram1.png)
 
 **Key Point**:
