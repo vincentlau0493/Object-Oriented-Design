@@ -1,6 +1,6 @@
 ## Prototype Design Pattern
 
-**Entrance File**: TestBuilder.java
+**Entrance File**: TestCloning.java
 
 **What is Builder Pattern**:
 
