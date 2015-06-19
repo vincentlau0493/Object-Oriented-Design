@@ -5,7 +5,7 @@ public class PizzaMaker {
 		Pizza pizza = new Mozzarella(new TomatoSauce(new PlainPizza()));
 
 		System.out.println("Description: " + pizza.getDescription());
-		System.out.println("Cost: " + pizza.getCost());
+		System.out.println("Cost: " + pizza.getCostc());
 
 	}
 
